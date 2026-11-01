@@ -11,6 +11,7 @@ Sample inventory API with stock quantities
 ## Run locally
 ```bash
 mvn spring-boot:run
+
 ```
 
 Test the API:
